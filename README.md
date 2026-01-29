@@ -16,3 +16,14 @@ Note that the dataset is gated, and users need to sign the data agreement form a
 # Publication 
 Link: https://arxiv.org/abs/2303.18162.  
 
+```
+@article{doi:10.1142/S2717554525500043,
+author = {Luu, Son T. and Hoang, Khoi Trong and Pham, Tuong Quang and Nguyen, Kiet Van and Nguyen, Ngan Luu-Thuy},
+title = {ViMMRC 2.0 — Enhancing Machine Reading Comprehension on Vietnamese Literature Text},
+journal = {International Journal of Asian Language Processing},
+volume = {35},
+number = {03},
+pages = {2550004},
+year = {2025},
+doi = {10.1142/S2717554525500043},
+```
